@@ -5,13 +5,13 @@
 We'd like you to supplement your Fundamentals learning with the following resources on web development workflow, CSS, and JavaScript. The readings and exercises in this section are required, and we expect them to take about two hours to complete.
 
 * Read this article: <a href="https://medium.com/@cecilycarver/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329" target="_blank"><em>Things I Wish Someone Had Told Me When I Was Learning How to Code</em></a>
-* Read through the following guides for keyboard shortcuts, terminal commands, and Sublime Text 3. Getting faster at navigating your computer and your text editor will help you be a more efficient and powerful developer.
+* Read through (and bookmark!) the following guides for keyboard shortcuts, terminal commands, and Sublime Text 3. Getting faster at navigating your computer and your text editor will help you be a more efficient and powerful developer.
   * <a href="http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/keyboard_shortcuts_osx.html" target="_blank">OSX Keyboard Shortcuts</a>
   * <a href="https://github.com/0nn0/terminal-mac-cheatsheet/wiki/Terminal-Cheatsheet-for-Mac-(-basics-)" target="_blank">Terminal Cheatsheet for Mac</a>
   * <a href="http://www.cheatography.com/martinprins/cheat-sheets/sublime-text-3-osx/" target="_blank">Sublime Text 3 Cheat Sheet</a>
   * <a href="https://scotch.io/bar-talk/the-complete-visual-guide-to-sublime-text-3-getting-started-and-keyboard-shortcuts" target="_blank">Visual Guide to Sublime Text 3</a>
 * You'll be using GitHub daily in WDI and in your web development career for collaboration and version control. Master the basics with the <a href="https://try.github.io" target="_blank">Try Git</a> tutorial.
-* Read the following articles on CSS. Sharpening your CSS skills will give you the tools you need to create beautiful projects during WDI and beyond.
+* Read the following articles on CSS. Sharpening your CSS skills will give you the tools you need to create visually compelling projects.
   * <a href="http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048" target="_blank">30 CSS Selectors You Must Memorize</a>
   * <a href="http://learnlayout.com" target="_blank">Learn CSS Layout</a>
 * Read through <a href="https://www.codecademy.com/articles/glossary-javascript" target="_blank">Codecademy's JavaScript Glossary</a>. <em>For more in-depth JavaScript practice, see the <a href="#javascript">JavaScript section</a> under "Extra Practice".</em>
