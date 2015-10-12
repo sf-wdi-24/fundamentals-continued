@@ -2,7 +2,7 @@
 
 ## Required Reading & Exercises
 
-We'd like you to supplement your Fundamentals learning with the following resources on web development workflow, CSS, and JavaScript. The readings and exercises in this section are required, and we expect them to take about two hours to complete.
+We'd like you to supplement your Fundamentals learning with the following resources on **web development workflow, CSS, and JavaScript**. The readings and exercises in this section are **REQUIRED**, and we expect them to take about two hours to complete.
 
 * Read this article: <a href="https://medium.com/@cecilycarver/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329" target="_blank"><em>Things I Wish Someone Had Told Me When I Was Learning How to Code</em></a>
 * Read through (and bookmark!) the following guides for keyboard shortcuts, terminal commands, and Sublime Text 3. Getting faster at navigating your computer and your text editor will help you be a more efficient and powerful developer.
