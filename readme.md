@@ -1,4 +1,4 @@
-# <img src="https://cloud.githubusercontent.com/assets/7833470/10423298/ea833a68-7079-11e5-84f8-0a925ab96893.png" style="vertical-align:middle;" width="50"> WDI Fundamentals Continued
+# <img src="https://cloud.githubusercontent.com/assets/7833470/10423298/ea833a68-7079-11e5-84f8-0a925ab96893.png" style="vertical-align:bottom;" width="50"> WDI Fundamentals Continued
 
 ## Required Reading & Exercises
 
